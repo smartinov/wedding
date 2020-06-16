@@ -3,116 +3,116 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/en/post/</loc>
+    <loc>https://smartinov.github.io/wedding/en/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="rs"
-                href="https://example.com/post/"
+                href="https://smartinov.github.io/wedding/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/"
+                href="https://smartinov.github.io/wedding/en/post/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/</loc>
+    <loc>https://smartinov.github.io/wedding/en/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="rs"
-                href="https://example.com/"
+                href="https://smartinov.github.io/wedding/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://smartinov.github.io/wedding/en/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/post/about/</loc>
+    <loc>https://smartinov.github.io/wedding/en/post/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="rs"
-                href="https://example.com/post/about/"
+                href="https://smartinov.github.io/wedding/post/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/about/"
+                href="https://smartinov.github.io/wedding/en/post/about/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/categories/</loc>
+    <loc>https://smartinov.github.io/wedding/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="rs"
-                href="https://example.com/categories/"
+                href="https://smartinov.github.io/wedding/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/"
+                href="https://smartinov.github.io/wedding/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/info/</loc>
+    <loc>https://smartinov.github.io/wedding/en/info/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="rs"
-                href="https://example.com/info/"
+                href="https://smartinov.github.io/wedding/info/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/info/"
+                href="https://smartinov.github.io/wedding/en/info/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/post/invitations/</loc>
+    <loc>https://smartinov.github.io/wedding/en/post/invitations/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="rs"
-                href="https://example.com/post/invitations/"
+                href="https://smartinov.github.io/wedding/post/invitations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/post/invitations/"
+                href="https://smartinov.github.io/wedding/en/post/invitations/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/en/tags/</loc>
+    <loc>https://smartinov.github.io/wedding/en/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="rs"
-                href="https://example.com/tags/"
+                href="https://smartinov.github.io/wedding/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="https://smartinov.github.io/wedding/en/tags/"
                 />
   </url>
   
