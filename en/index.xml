@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefan &amp; Darija - Wedding on Stefan i Darija</title>
+    <link>https://example.com/en/</link>
+    <description>Recent content in Stefan &amp; Darija - Wedding on Stefan i Darija</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>rs</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://example.com/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About us</title>
+      <link>https://example.com/en/post/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/en/post/about/</guid>
+      <description>Phasellus dolor orci, tempor sit amet condimentum at, tempus sit amet nibh. Sed et lectus augue. Donec pellentesque euismod congue. Maecenas suscipit vitae elit non vulputate. Vestibulum id ultricies orci, at pretium nibh. Duis condimentum luctus nibh non aliquam. Phasellus egestas dolor quis elit iaculis tempus.
+Nulla vitae purus pulvinar, malesuada orci eget, rhoncus erat. Fusce nec metus sit amet massa bibendum consectetur. Nunc in hendrerit nisl. Nulla tincidunt lectus vitae orci semper iaculis.</description>
+    </item>
+    
+    <item>
+      <title>Invitations Are Here!</title>
+      <link>https://example.com/en/post/invitations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/en/post/invitations/</guid>
+      <description>Phasellus dolor orci, tempor sit amet condimentum at, tempus sit amet nibh. Sed et lectus augue. Donec pellentesque euismod congue. Maecenas suscipit vitae elit non vulputate. Vestibulum id ultricies orci, at pretium nibh. Duis condimentum luctus nibh non aliquam. Phasellus egestas dolor quis elit iaculis tempus.
+Nulla vitae purus pulvinar, malesuada orci eget, rhoncus erat. Fusce nec metus sit amet massa bibendum consectetur. Nunc in hendrerit nisl. Nulla tincidunt lectus vitae orci semper iaculis.</description>
+    </item>
+    
+  </channel>
+</rss>
