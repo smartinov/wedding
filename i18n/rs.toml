@@ -8,10 +8,10 @@ other = "Svi {{.Title }}"
 other = "Najnoviji {{.Title }}"
 
 [readMore]
-other = "read more"
+other = "Detaljnije"
 
 [whatsInThis]
-other = "What's in this {{ .Type }}"
+other = "Šta je ovo {{ .Type }}"
 
 [related]
 other = "Slično"
@@ -26,7 +26,7 @@ other = "Email Adresa"
 other = "Poruka"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "Email je obavezan"
 
 [send]
-other = "Send"
+other = "Pošalji"
