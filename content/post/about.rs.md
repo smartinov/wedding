@@ -4,7 +4,7 @@ title: "O nama"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium risus non erat interdum, vitae."
 ---
 
-{{< figure src="/images/stefan-i-darija.jpg" title="Stefan i Darija" >}}
+{{< figure src="/images/swing.png" title="Stefan i Darija" >}}
 
 Stefan je programer iz Zrenjanina koji voli životinje, sladoled i vožnju biciklom! Uvek je spreman za nova iskustva i avanture (skok padobranom je na listi!) i želja mu je da poseti što više dalekih zemalja i upozna što više kultura različitih od naše... Uživa u jahanju i hrani i jako se dugo bavio airsoftom... Baca forice u društvu i voli da igra video igrice.
 
