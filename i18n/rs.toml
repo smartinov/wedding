@@ -5,7 +5,7 @@ other = "Jos"
 other = "Svi {{.Title }}"
 
 [recentTitle]
-other = "Najnoviji {{.Title }}"
+other = "Najnovije {{.Title }}"
 
 [readMore]
 other = "Detaljnije"
