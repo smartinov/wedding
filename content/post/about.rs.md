@@ -4,7 +4,8 @@ title: "O nama"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium risus non erat interdum, vitae."
 ---
 
-{{< figure src="/images/swing.png" title="Stefan i Darija" >}}
+{{< figure src="../../images/swing.png" title="Stefan i Darija" >}}
+
 
 Stefan je programer iz Zrenjanina koji voli životinje, sladoled i vožnju biciklom! Uvek je spreman za nova iskustva i avanture (skok padobranom je na listi!) i želja mu je da poseti što više dalekih zemalja i upozna što više kultura različitih od naše... Uživa u jahanju i hrani i jako se dugo bavio airsoftom... Baca forice u društvu i voli da igra video igrice.
 
@@ -16,7 +17,7 @@ Online! Prvi sastanak je bio u kafiću koji više ne postoji a zove se "Owl cafe
 
 Gde je bila prosidba?
 
-{{< figure src="/images/visegrad.jpg" title="Višehrad" >}}
+{{< figure src="../../images/visegrad.jpg" title="Višehrad" >}}
 
 
 Prosidba je bila u Višehradu (vrlo lep i istorijski značajan deo Praga). Sve je bilo organizovano tako da buduća mlada ne posumnja šta se sprema, a u planiranje su bili uključeni zajednički prijatelji... prosidba se odigrala noću, na vidikovcu odakle se vidi ceo grad, na jako romantičan način i uz prethodni blagoslov roditelja... budući mladoženja je rekao sve što je želeo a zatim i kleknuo držeći dijamantski prsten kako bi zapečatio prosidbu na pravi način... mladino "da" je proslavljeno uz konfete i šampanjac! :) Usledila je večera u jednom od najlepših restorana u Pragu... kao finalno iznenađenje Dariju je u stanu sačekala i velika korpa cveća sa karticom na kojoj jedna maca kaže drugoj "I want to spend all my 9 lives with you"...  sve u svemu, predivne uspomene kojih će se uvek rado sećati!
