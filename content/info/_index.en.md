@@ -1,7 +1,7 @@
 ---
 title: "Information"
 description: "About the wedding"
-featured_image: '/images/rose-book.jpg'
+featured_image: '/images/visegrad.jpg'
 ---
 ## Informacije
 
@@ -12,7 +12,7 @@ Gradjansko vencanje ce biti u sklopu
 ## Uspenska Crkva
 
 
-{{< figure src="/images/uspenska.jpg" title="Uspenska Crkva Novi Sad" >}}
+{{< figure src="../../images/uspenska.jpg" title="Uspenska Crkva Novi Sad" >}}
 
 Uspenska crkva se nalazi u istoimenoj ulici. Sagrađena je u periodu od 1765. do 1774. 
 Tada je bački vladika Mojsije Putnik smatra gotovom, uz napomenu da je temeljno sazidana od dobrog materijala, pečene cigle, kreča i peska. 
@@ -35,10 +35,9 @@ O tome svedoči i grb carsko kraljevskog kapetana Jovana Jankovića od Brinja, k
 Mister Twister
 DJ & Sax
 
-
 ## Fotografi
 
-
+Color 24
 
 
 
