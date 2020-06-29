@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Novosti on Stefan &amp; Darija</title>
-    <link>https://smartinov.github.io/wedding/post/</link>
-    <description>Recent content in Novosti on Stefan &amp; Darija</description>
+    <title>Novosti on Darija i Stefan</title>
+    <link>https://darijaistefan.wedding/post/</link>
+    <description>Recent content in Novosti on Darija i Stefan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>rs</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://smartinov.github.io/wedding/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://darijaistefan.wedding/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>O nama</title>
-      <link>https://smartinov.github.io/wedding/post/about/</link>
+      <link>https://darijaistefan.wedding/post/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://smartinov.github.io/wedding/post/about/</guid>
+      <guid>https://darijaistefan.wedding/post/about/</guid>
       <description>Stefan i Darija   Stefan je programer iz Zrenjanina koji voli životinje, sladoled i vožnju biciklom! Uvek je spreman za nova iskustva i avanture (skok padobranom je na listi!) i želja mu je da poseti što više dalekih zemalja i upozna što više kultura različitih od naše&amp;hellip; Uživa u jahanju i hrani i jako se dugo bavio airsoftom&amp;hellip; Baca forice u društvu i voli da igra video igrice.</description>
     </item>
     
     <item>
       <title>Stigle su pozivnice!</title>
-      <link>https://smartinov.github.io/wedding/post/invitations/</link>
+      <link>https://darijaistefan.wedding/post/invitations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://smartinov.github.io/wedding/post/invitations/</guid>
+      <guid>https://darijaistefan.wedding/post/invitations/</guid>
       <description>Phasellus dolor orci, tempor sit amet condimentum at, tempus sit amet nibh. Sed et lectus augue. Donec pellentesque euismod congue. Maecenas suscipit vitae elit non vulputate. Vestibulum id ultricies orci, at pretium nibh. Duis condimentum luctus nibh non aliquam. Phasellus egestas dolor quis elit iaculis tempus.
 Nulla vitae purus pulvinar, malesuada orci eget, rhoncus erat. Fusce nec metus sit amet massa bibendum consectetur. Nunc in hendrerit nisl. Nulla tincidunt lectus vitae orci semper iaculis.</description>
     </item>
