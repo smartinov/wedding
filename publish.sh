@@ -21,5 +21,12 @@ rm -rf public/*
 echo "Generating site"
 HUGO_ENV=production hugo
 
+
+
 echo "Updating gh-pages branch"
-cd public && git add --all && git commit -m "publish to gh-pages (publish.sh)" && git push
+cd public
+
+echo "darijaistefan.wedding" > CNAME
+
+git add --all && git commit -m "publish to gh-pages (publish.sh)" && git push
+
