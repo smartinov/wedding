@@ -1,7 +1,7 @@
 languageCode = "rs"
 theme = "ananke"
-baseURL = "https://smartinov.github.io/wedding"
-title = "Stefan & Darija"
+baseURL = "https://darijaistefan.wedding"
+title = "Darija i Stefan"
 
 
 MetaDataFormat = "yaml"
@@ -34,12 +34,3 @@ enableRobotsTXT = true
   featured_image = "/images/background.jpg"
   recent_posts_number = 2
   custom_css = ["/css/custom.css"]
-
-
-[languages]
-    [languages.rs]
-        title = "Stefan & Darija"
-        languageName = "English"
-    [languages.en]
-        title = "Stefan i Darija"
-        languageName = "Srpski"
