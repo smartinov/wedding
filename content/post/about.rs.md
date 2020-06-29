@@ -2,6 +2,7 @@
 featured_image: "/images/proposal.jpg"
 title: "O nama"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium risus non erat interdum, vitae."
+date: "2019-11-16"
 ---
 
 {{< figure src="../../images/swing.png" title="Stefan i Darija" >}}
