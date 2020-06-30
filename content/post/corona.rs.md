@@ -9,7 +9,7 @@ date: "2020-06-29"
  kada je po prognozama stručnjaka nije trebalo očekivati.
 
 
-{{< figure src="../../images/exclusive-2.jpeg" title="Exclusive NS" >}}
+{{< figure src="../../images/exclusive-2.jpg" title="Exclusive NS" >}}
 
  Nema podataka da u Novom Sadu i Vojvodini postoji veliki broj obolelih. Na Severu Srbije je situacija čini se znatno bolja nego u ostalim delovima Srbije.
  Mere koje predlažu Krizni Štab i Vlada se menjaju iz dana u dan. Zasada, deluje da će se izolovati pojedini gradovi koji predstavljaju žarišta, ali nema naznaka da će Novi Sad biti na toj listi.

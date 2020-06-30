@@ -10,10 +10,9 @@ featured_image: '/images/rose-book.jpg'
 
 ### Crkveno venčanje u Uspenskoj crkvi
 
-
 {{< figure src="/images/uspenska.jpg" title="Uspenska Crkva Novi Sad" >}}
 
-Crkveno venčanje će se održati u 14h u Uspenskoj crkvi u Novom Sadu.  Adresa ove crkve je Pozorišni trg 1. Nalazi se u samom centru grada, u blizini Srpskog narodnog pozorišta.
+Crkveno venčanje će se održati u 14h u Uspenskoj crkvi u Novom Sadu. Adresa ove crkve je Pozorišni trg 1. Nalazi se u samom centru grada, u blizini Srpskog narodnog pozorišta.
 
 Mladenci su odabrali baš Uspensku crkvu zbog porodične tradicije-naime, tamo su se polovinom prošlog veka venčali Stefanov deda Steva i baka Vera. 
 U to vreme se nije blagonaklono gledalo na to da se istaknuti pripadnik vojske SFRJ ženi u crkvi, pa je venčanje obavljeno u najvećoj tajnosti. Deda Steva je čak na popovo pitanje
@@ -59,6 +58,6 @@ DJ & Sax
 ## Fotografi
 
 
-
+{{< youtube XP7RQ9f8zNE >}}
 
 

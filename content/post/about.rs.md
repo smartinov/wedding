@@ -5,7 +5,7 @@ description: "Par reči o mladoj i mladoženji"
 date: "2019-11-16"
 ---
 
-{{< figure src="../../images/swing.png" title="Stefan i Darija" >}}
+{{< figure src="../../images/swing.jpg" title="Stefan i Darija" >}}
 
 
 Stefan je programer iz Zrenjanina koji voli životinje, sladoled i vožnju biciklom! 
