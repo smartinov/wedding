@@ -40,3 +40,5 @@ date: "2020-06-29"
  Ukoliko uprkos tome pojedini ljudi iz straha ili opreza ne žele da prisustvuju svadbenom veselju, to je sasvim razumljivo i opravdano.
  
  Sve zvanice se mole da mladence obaveste o svojoj odluci o dolasku na venčanje do petka 3.jula, kako bi restoranu bio potvrđen tačan broj gostiju na vreme. 
+
+Za dodatne informacije o svadbi pogledajte [ovde](/info) ili za novosti [ovde](/post/)
