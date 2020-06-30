@@ -25,7 +25,7 @@ date: "2020-06-29"
 
  - gosti će biti ljubazno zamoljeni da ne čestitaju mladencima venčanje na tradicionalan način - ljubljenjem - već verbalno ili na drugi bezbedan način
  - deo gostiju će biti smešten na otvorenom, u zavisnosti od propisanih mera Vlade o dozvoljenom broju ljudi u zatvorenim prostorima. Ukoliko taj broj bude izuzetno mali, 
- napolju ima dovoljno mesta za sve goste (do 200 gostiju) i svadba će prosto biti na otvorenom
+ napolju ima dovoljno mesta za sve goste (do 200 ljudi) i svadba će prosto biti na otvorenom
  - u sali će za istim stolom biti smešteni članovi porodica, odnosno ljudi koji se privatno često viđaju i druže
  - između stolova će biti propisan razmak, odnosno bezbedna distanca
  - na ulazu u salu će biti postavljena dezobarijera
