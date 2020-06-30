@@ -54,6 +54,8 @@ Više informacija o Exclusive NS sali možete naći [ovde](https://exclusivens.c
 Mister Twister
 DJ & Sax
 
+{{< youtube bzJRYbCokrk >}}
+
 
 ## Fotografi
 
