@@ -1,13 +1,13 @@
 ---
 featured_image: "/images/gift.jpg"
-title: "Slika mladenaca"
+title: "Crtež mladenaca"
 description: "Originalan poklon pred svadbu"
 date: "2020-07-01"
 ---
 
 
-Desetak dana pred zakazano slavlje, njihova drugarica Nada Arsenović obradovala je mladence živopisnom slikom njih dvoje! 
-Slika je urađena krajnje originalnim stilom, u jarkim i veselim bojama.
+Desetak dana pred zakazano slavlje, njihova drugarica Nada Arsenović obradovala je mladence živopisnim crtežom njih dvoje! 
+Crtež je urađena krajnje originalnim stilom, u jarkim i veselim bojama.
 Na slici se vide Stefan, u odelu za svadbu i sa mašnom oko vrata, koji vozi bicikl a na pak-tregeru sedi nasmejana Darija držeći u ruci bidermajer od ružičastih ruža. 
 Za bicikl je zakačeno više malih konzervi sa srcima koje simbolizuju tek venčani par.
 Pored Stefana se nalazi mali namćor - maca Noa, sređena za svadbu svojih ukućana, dok pored Darije vidimo preslarku sovicu sa mašnom koja je spremna za proslavu ljubavi!
