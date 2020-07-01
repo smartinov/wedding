@@ -1,7 +1,7 @@
 ---
 title: "Informacije"
 description: "Koje gostima mogu biti korisne i zanimljive"
-featured_image: '/images/rose-book.jpg'
+featured_image: '/images/married-soon.jpg'
 ---
 ### Odlazak po mladu
 
@@ -44,7 +44,7 @@ pripreme proslave lepšim i prijatnijim.
 
 Ova predivna, raskošna i otmena sala nalazi se na adresi Bulevar Vojvode Stepe 52. Odlikuje je velika i romantična bašta, sva u mermeru i cveću, koja je idealna za proslave i venčanja, 
 kao i ukusno opremljena unutrašnjost sa odličnom ventilacijom, luksuznom rasvetom i svetlosnim efektima koji ostavljaju bez daha. 
-Restoran ExclusiveNs poseduje moderno opremljenu kuhinju u kojoj vrhunski kuvari spremaju raznovrsne specijalitete u skladu sa željama gostiju.
+Restoran Exclusive Ns poseduje moderno opremljenu kuhinju u kojoj vrhunski kuvari spremaju raznovrsne specijalitete u skladu sa željama gostiju.
 Profesionalno i veoma ljubazno osoblje na raspolaganju je svim gostima tokom trajanja svadbenog veselja.
 
 Više informacija o Exclusive NS sali možete naći [ovde](https://exclusivens.com/)
