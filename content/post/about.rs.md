@@ -5,7 +5,7 @@ description: "Par reči o mladoj i mladoženji"
 date: "2019-11-16"
 ---
 
-{{< figure src="../../images/swing.jpg" title="Stefan i Darija" >}}
+{{< figure src="../../images/swing.jpg" >}}
 
 
 Stefan je programer iz Zrenjanina koji voli životinje, sladoled i vožnju biciklom! 
@@ -40,4 +40,4 @@ Usledila je večera u jednom od najlepših restorana u Pragu koji se budućoj ml
 kao finalno iznenađenje Dariju je u stanu sačekala i velika korpa cveća sa karticom na kojoj jedna maca kaže drugoj “I want to spend all my 9 lives with you”…
 sve u svemu, to su predivne uspomene kojih će se čitavog života sećati sa posebnom emocijom!
 
-{{< figure src="../../images/anniversary.jpg" }}
+{{< figure src="../../images/anniversary.jpg" >}}
