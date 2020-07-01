@@ -4,7 +4,14 @@
   
   <url>
     <loc>https://darijaistefan.wedding/</loc>
-    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://darijaistefan.wedding/post/dawing/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
