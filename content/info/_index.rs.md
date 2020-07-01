@@ -17,6 +17,7 @@ Crkveno venčanje će se održati u 14h u Uspenskoj crkvi u Novom Sadu.  Adresa 
 Mladenci su odabrali baš Uspensku crkvu zbog porodične tradicije-naime, tamo su se polovinom prošlog veka venčali Stefanov deda Steva i baka Vera. 
 U to vreme se nije blagonaklono gledalo na to da se istaknuti pripadnik vojske SFRJ ženi u crkvi, pa je venčanje obavljeno u najvećoj tajnosti. Deda Steva je čak na popovo pitanje
 najpre omaškom odgovorio "ne", što je postalo simpatična anegdota koja se rado prepričavala tokom njihovog sedam decenija dugog braka.
+U istoj crkvi kršteni su Stefan i njegov brat Marko, te je ona posebno draga nihovoj porodici.
 
 Uspenska crkva je spomenik kulture od izuzetnog značaja. Na mestu ranije skromnije građevine sagrađena je nova, lepša i raskošnija, u periodu od 1765. do 1774. godine. 
 Podignuta je u baroknom stilu, a zbog umetničke obrade, opreme, inventara i oblikovanja, bila je najznačajnija crkva Novog Sada i šireg područja.
@@ -33,8 +34,6 @@ Danas je ova crkva sa bogatom istorijom i tradicijom omiljena među žiteljima N
 {{< google-maps-location height="300" location="Uspenska Crkva, Novi Sad" language="sr" >}}
 
 ## Okupljanje svatova u Exclusive NS svečanoj sali
-
-"Okupljanje svatova u Exclusive NS svečanoj sali"
 
 Okupljanje svatova zakazano je za 16h u Exclusive NS Svečanoj sali u Novom Sadu. 
 Gosti koji eventualno dođu ranije, pozvani su da uđu u salu gde će biti posluženi aperitivom u iščekivanju dolaska ostalih svatova.
