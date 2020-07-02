@@ -5,7 +5,7 @@ description: "Par reči o mladoj i mladoženji"
 date: "2019-11-16"
 ---
 
-{{< figure src="../../images/swing.jpg" >}}
+{{< figure src="/images/swing.jpg" >}}
 
 
 Stefan je programer iz Zrenjanina koji voli životinje, sladoled i vožnju biciklom! 
@@ -16,20 +16,20 @@ Baca forice u društvu i voli da igra video igrice.
 
 Darija je doktor prava koji će uskoro da brani drugu doktorsku disertaciju (odakle je malo komplikovanije pitanje)! 
 U slobodno vreme voli da čita knjige a ima i dara za pisanje - piše svoje eseje i romane.
-Uvek je raspoložena za šetnju kejom, kafu da prijateljima ili laganu vožnju biciklom! 
+Uvek je raspoložena za šetnju kejom, kafu sa prijateljima ili laganu vožnju biciklom! 
 Voli da se druži, putuje, ali i da izlazi i đuska po klubovima! 
 Zavisnik je od čokolade i kokica, a uz to je veliki fan Naruta i uopšte anima.
 
 ### Prvi sastanak
 
-Prvi sastanak je bio u kafiću koji više ne postoji a zvao se “Owl cafe” i nalazio se u ulici Laze Telečkog.
+Prvi sastanak je bio u kafiću koji više ne postoji. Zvao se “Owl cafe” i nalazio se u ulici Laze Telečkog.
 Kako im se jako svidelo mesto,  i kako su oboje fanovi sovica, one su im postale zaštitni znak.
-Prvi dejt je trajao preko 3 sata i totalno su se dopali jedno drugom. Ono što je bilo krajnje simpatično je da su nekoliko puta rekli bukvalno istu rečenicu u isto vreme!
-Simpatije su bile obostrane i zakazali su drugi dejt a ostalo je istorija…
+Prvi dejt je trajao preko 3 sata i jako su se dopali jedno drugom. Ono što je bilo krajnje simpatično je da su nekoliko puta rekli bukvalno istu rečenicu u isto vreme!
+Simpatije su bile obostrane i zakazali su drugi sastanak a ostalo je istorija…
 
 ### Prosidba
 
-{{< figure src="../../images/visegrad.jpg" title="Višehrad" >}}
+{{< figure src="/images/visegrad.jpg" title="Višehrad" >}}
 
 Prosidba se odigrala dan pred njihovu drugu godišnjicu u vrlo lepom i istorijski značajnom delu Praga koji se zove Višehrad.
 Sve je bilo organizovano tako da buduća mlada ne posumnja šta se sprema, dobijen je i roditeljski blagoslov, a u planiranje su bili uključeni zajednički prijatelji…
@@ -40,4 +40,4 @@ Usledila je večera u jednom od najlepših restorana u Pragu koji se budućoj ml
 kao finalno iznenađenje Dariju je u stanu sačekala i velika korpa cveća sa karticom na kojoj jedna maca kaže drugoj “I want to spend all my 9 lives with you”…
 sve u svemu, to su predivne uspomene kojih će se čitavog života sećati sa posebnom emocijom!
 
-{{< figure src="../../images/anniversary.jpg" >}}
+{{< figure src="/images/anniversary.jpg" >}}

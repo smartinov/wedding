@@ -34,3 +34,11 @@ enableRobotsTXT = true
   recent_posts_number = 5
   custom_css = ["/css/custom.css"]
   googleMapsAPIKey = "AIzaSyCMUtavmNINk7UqJN5UeWAjUuSPmDGTR00"
+
+[languages]
+  [languages.en]
+      title = "Stefan & Darija"
+      languageName = "English"
+  [languages.rs]
+      title = "Stefan i Darija"
+      languageName = "Srpski"
