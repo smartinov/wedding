@@ -3,6 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://darijaistefan.wedding/en/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="rs"
+                href="https://darijaistefan.wedding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://darijaistefan.wedding/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://darijaistefan.wedding/en/post/wedding-rings/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="rs"
+                href="https://darijaistefan.wedding/post/wedding-rings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://darijaistefan.wedding/en/post/wedding-rings/"
+                />
+  </url>
+  
+  <url>
     <loc>https://darijaistefan.wedding/en/post/dawing/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -16,23 +50,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://darijaistefan.wedding/en/post/dawing/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://darijaistefan.wedding/en/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://darijaistefan.wedding/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://darijaistefan.wedding/en/"
                 />
   </url>
   
