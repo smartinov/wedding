@@ -37,8 +37,8 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-      title = "Stefan & Darija"
+      title = "Darija & Stefan"
       languageName = "English"
   [languages.rs]
-      title = "Stefan i Darija"
+      title = "Darija i Stefan"
       languageName = "Srpski"
